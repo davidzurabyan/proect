@@ -1,0 +1,234 @@
+
+
+
+.container{
+width:100%;
+height:700px;
+
+}
+
+.block{
+border: 1px solid black;
+width: 1284px;
+height: 260px;
+
+}
+
+.block1{
+width: 20%;
+height: 505px;
+float: left;
+background-color: black;
+text-align: center;
+color: blueviolet;
+background-image: url(nerk.jpg);
+background-size: 256px 551px;
+}
+
+.block2{
+width: 56%;
+height: 505px;
+background-color: antiquewhite;
+float:left;
+background-color:rgb(124, 64, 30);
+}
+
+.block2_1{ 
+width: 606px;
+height: 456px;
+margin: 55px;
+margin-top: 24px;
+background-color: rgb(202, 150, 40);
+}
+
+.block3{
+width: 294px;
+height: 505px;
+background-color: rgb(202, 150, 40);
+float: left;
+
+}
+
+.padval{
+width: 1286px;
+height: 170px;
+float: left;
+background: rgb(211, 211, 211);
+
+}
+
+.padval1{
+width: 100%;
+text-align:center;
+}
+
+.padval2{
+width:100%;
+height:133px;
+}
+
+
+.dim{
+border: 1px solid black;
+width: 150px;
+height: 100px;
+float: left;
+margin-top: 3px;
+}
+
+.bn{
+border: 1px solid black;
+width: 150px;
+height: 100px;
+float: left;
+margin-top: 3px;
+}
+
+.nat{
+border: 1px solid black;
+width: 150px;
+height: 100px;
+float: left;
+margin-top: 3px;
+}
+
+.gex{
+border: 1px solid black;
+width: 150px;
+height: 100px;
+float: left;
+margin-top: 3px;
+}
+
+.kub{
+border: 1px solid black;
+width: 150px;
+height: 100px;
+float: left;
+margin-top: 3px;
+}
+
+.imp{
+border: 1px solid black;
+width: 150px;
+height: 100px;
+float: left;
+margin-top: 3px;
+}
+
+.abs{
+border: 1px solid black;
+width: 150px;
+height: 100px;`																														
+float: left;
+margin-top: 3px;
+}
+
+.vitraj{
+border: 1px solid black;
+width: 150px;
+height: 100px;
+float: left;
+margin-top: 3px;
+}
+
+.kav{
+border: 1px solid black;
+width: 150px;
+height: 100px;
+float: left;
+margin-top: 3px;
+
+
+}
+
+.dim1{
+width: 140px;
+height: 20px;
+float: left;
+padding-right: 12px;
+margin-right: 69px;
+margin-top: 4px;
+padding-top: 4px;
+text-align: center;
+}
+
+.bn1{
+width: 140px;
+height: 20px;
+float: left;
+margin: 4px;
+padding-top: 4px;
+margin-top: 4px;
+margin-right: 75px;
+text-align: center;
+}
+
+.nat1{
+width: 140px;
+height: 20px;
+float: left;
+margin: 13px;
+padding-top: 5px;
+margin-top: 4px;
+text-align: center;
+}
+
+.gex1{
+width: 140px;
+height: 20px;
+float: left;
+padding-right: 12px;
+margin-top: 118px;
+text-align: center;
+}
+
+.kub1{
+width: 140px;
+height: 20px;
+float: left;
+padding-right: 12px;
+margin: 74px;
+margin-top: 118px;
+text-align: center;
+}
+
+.imp1{
+width: 140px;
+height: 20px;
+float: left;
+margin: 2px;
+margin-top: 118px;
+text-align: center;
+}
+
+.abs1{
+width: 140px;
+height: 20px;
+float: left;
+padding-right: 12px;
+padding-top: 4px;
+margin-top: 115px;
+text-align: center;
+}
+
+.vitraj1{
+width: 140px;
+height: 20px;
+float: left;
+padding-right: 98px;
+padding-top: 4px;
+margin-top: -24px;
+text-align: center;
+}
+
+.kav1{
+width: 140px;
+height: 20px;
+float: left;
+padding-right: 7px;
+margin: 227px;
+padding-top: 5px;
+margin-top: -24px;
+text-align: center;
+}
